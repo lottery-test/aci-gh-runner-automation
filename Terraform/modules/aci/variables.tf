@@ -1,6 +1,6 @@
 variable location {
   type=string
-  default="EastUs"
+  default="italynorth"
 } 
 variable resourceGroupName {
   type=string
