@@ -1,11 +1,11 @@
 variable "location" {
   type    = string
-  default = "EastUs"
+  default = "Italynorth"
 }
 
 variable "rg_name" {
   type    = string
-  default = "rg-aci-ghrunners"
+  default = "test-cerratti"
 }
 
 variable "vnet_name" {
