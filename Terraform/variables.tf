@@ -5,7 +5,7 @@ variable "location" {
 
 variable "rg_name" {
   type    = string
-  default = "test-cerratti"
+  default = "git-cerratti"
 }
 
 variable "vnet_name" {
