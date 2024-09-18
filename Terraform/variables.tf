@@ -5,7 +5,7 @@ variable "location" {
 
 variable "rg_name" {
   type    = string
-  default = "git-cerratti"
+  default = "github-selfhosted"
 }
 
 variable "vnet_name" {
